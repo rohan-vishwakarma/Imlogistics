@@ -1,0 +1,72 @@
+[10-Feb-2024 06:32:16 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:16 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:16 UTC] PHP Warning:  include(): Failed opening '../../partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:46 UTC] PHP Warning:  include(../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:46 UTC] PHP Warning:  include(../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:46 UTC] PHP Warning:  include(): Failed opening '../partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:47 UTC] PHP Warning:  include(../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:47 UTC] PHP Warning:  include(../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:32:47 UTC] PHP Warning:  include(): Failed opening '../partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 17
+[10-Feb-2024 06:33:29 UTC] PHP Warning:  include(../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:29 UTC] PHP Warning:  include(../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:29 UTC] PHP Warning:  include(): Failed opening '../partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:38 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:38 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:38 UTC] PHP Warning:  include(): Failed opening '../../partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:50 UTC] PHP Warning:  include(partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:50 UTC] PHP Warning:  include(partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:50 UTC] PHP Warning:  include(): Failed opening 'partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:51 UTC] PHP Warning:  include(partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:51 UTC] PHP Warning:  include(partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:51 UTC] PHP Warning:  include(): Failed opening 'partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:51 UTC] PHP Warning:  include(partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:51 UTC] PHP Warning:  include(partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:33:51 UTC] PHP Warning:  include(): Failed opening 'partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:34:14 UTC] PHP Warning:  include(../Partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:34:14 UTC] PHP Warning:  include(../Partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:34:14 UTC] PHP Warning:  include(): Failed opening '../Partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:34:43 UTC] PHP Warning:  include(../Partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:34:43 UTC] PHP Warning:  include(../Partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:34:43 UTC] PHP Warning:  include(): Failed opening '../Partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:43:24 UTC] PHP Warning:  include(../Partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:43:24 UTC] PHP Warning:  include(../Partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:43:24 UTC] PHP Warning:  include(): Failed opening '../Partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 25
+[10-Feb-2024 06:44:31 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_register.php on line 27
+[10-Feb-2024 06:44:31 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_register.php on line 27
+[10-Feb-2024 06:44:31 UTC] PHP Warning:  include(): Failed opening '../../partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_register.php on line 27
+[10-Feb-2024 07:59:44 UTC] PHP Notice:  Undefined index: otp in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/otp_verification.php on line 32
+[10-Feb-2024 08:00:01 UTC] PHP Notice:  Undefined index: otp in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/otp_verification.php on line 32
+[10-Feb-2024 08:00:16 UTC] PHP Notice:  Undefined index: otp in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/otp_verification.php on line 32
+[10-Feb-2024 09:18:22 UTC] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 31
+[10-Feb-2024 09:18:22 UTC] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 31
+[10-Feb-2024 09:18:22 UTC] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 31
+[10-Feb-2024 09:18:22 UTC] PHP Notice:  Undefined index: username in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 33
+[10-Feb-2024 09:18:22 UTC] PHP Notice:  Undefined index: password in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 34
+[10-Feb-2024 09:18:22 UTC] PHP Notice:  Undefined variable: con in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 38
+[10-Feb-2024 09:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 38
+[10-Feb-2024 09:18:33 UTC] PHP Notice:  Undefined index: username in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 33
+[10-Feb-2024 09:18:33 UTC] PHP Notice:  Undefined index: password in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 34
+[10-Feb-2024 09:19:04 UTC] PHP Notice:  Undefined index: username in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 33
+[10-Feb-2024 09:19:04 UTC] PHP Notice:  Undefined index: password in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 34
+[10-Feb-2024 09:44:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 46
+[10-Feb-2024 09:49:37 UTC] PHP Notice:  Undefined index: username in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 33
+[10-Feb-2024 09:50:16 UTC] PHP Notice:  Undefined index: username in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 33
+[10-Feb-2024 09:50:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 46
+[10-Feb-2024 09:52:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 46
+[10-Feb-2024 09:52:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 46
+[10-Feb-2024 09:58:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 46
+[10-Feb-2024 10:03:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Partials/navbar.php on line 3
+[10-Feb-2024 10:04:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Partials/navbar.php on line 3
+[10-Feb-2024 10:04:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Partials/navbar.php on line 3
+[10-Feb-2024 10:04:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Partials/navbar.php on line 3
+[10-Feb-2024 10:04:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Partials/navbar.php on line 3
+[10-Feb-2024 10:04:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Partials/navbar.php on line 3
+[10-Feb-2024 10:04:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Partials/navbar.php on line 3
+[12-Feb-2024 09:48:28 UTC] PHP Warning:  include(/cdnlinks.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 30
+[12-Feb-2024 09:48:28 UTC] PHP Warning:  include(): Failed opening '/cdnlinks.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 30
+[12-Feb-2024 09:48:42 UTC] PHP Warning:  include(cdnlinks.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 30
+[12-Feb-2024 09:48:42 UTC] PHP Warning:  include(cdnlinks.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 30
+[12-Feb-2024 09:48:42 UTC] PHP Warning:  include(): Failed opening 'cdnlinks.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Admin/admin_login.php on line 30

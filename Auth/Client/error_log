@@ -1,0 +1,72 @@
+[10-Feb-2024 06:58:57 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 17
+[10-Feb-2024 06:58:57 UTC] PHP Warning:  include(../../partials/navbar.php): failed to open stream: No such file or directory in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 17
+[10-Feb-2024 06:58:57 UTC] PHP Warning:  include(): Failed opening '../../partials/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 17
+[19-Feb-2024 11:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:77
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 77
+[19-Feb-2024 11:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:77
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 77
+[19-Feb-2024 11:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:77
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 77
+[19-Feb-2024 11:42:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 35
+[19-Feb-2024 11:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 36
+[19-Feb-2024 11:44:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 36
+[19-Feb-2024 11:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 36
+[19-Feb-2024 11:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 35
+[19-Feb-2024 11:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 35
+[19-Feb-2024 11:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 35
+[19-Feb-2024 11:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 35
+[19-Feb-2024 11:47:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 35
+[19-Feb-2024 11:47:58 UTC] PHP Notice:  Undefined variable: con in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 43
+[19-Feb-2024 11:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php:43
+Stack trace:
+#0 {main}
+  thrown in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 43
+[19-Feb-2024 11:57:18 UTC] PHP Notice:  Undefined index: username in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 86
+[19-Feb-2024 12:13:02 UTC] PHP Notice:  Undefined index: password in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 42
+[19-Feb-2024 12:13:34 UTC] PHP Notice:  Undefined index: password in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 42
+[19-Feb-2024 12:13:38 UTC] PHP Notice:  Undefined index: password in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 42
+[19-Feb-2024 12:13:46 UTC] PHP Notice:  Undefined index: password in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 42
+[19-Feb-2024 12:15:19 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 57
+[19-Feb-2024 12:15:19 UTC] PHP Notice:  Undefined variable: x in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 62
+[19-Feb-2024 12:15:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 53
+[19-Feb-2024 12:15:34 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 57
+[19-Feb-2024 12:15:34 UTC] PHP Notice:  Undefined variable: x in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 62
+[19-Feb-2024 12:15:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 53
+[19-Feb-2024 12:16:36 UTC] PHP Notice:  Undefined variable: x in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 62
+[19-Feb-2024 12:16:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 53
+[19-Feb-2024 12:22:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 53
+[19-Feb-2024 12:27:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_login.php on line 59
+[20-Feb-2024 09:09:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/a1622eoz/riteshroadways.in/Imlogistics/Auth/Client/client_verification.php on line 53
