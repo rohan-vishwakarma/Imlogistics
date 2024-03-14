@@ -2,7 +2,7 @@
 
      $server="localhost";
      $dbusername="a1622eoz_Imlogistics";
-     $dbpassword="Dhruv@Khush@1809";
+     $dbpassword="";
 
     
     $dbname="a1622eoz_Imlogistics";
